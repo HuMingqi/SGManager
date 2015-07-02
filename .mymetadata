@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SGManager"
+  id="myeclipse.1430373919276"
+  context-root="/SGManager"
+  j2ee-spec="5.0"
+  archive="SGManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
